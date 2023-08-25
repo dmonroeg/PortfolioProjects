@@ -1,3 +1,8 @@
+--The Excel files for this project 
+--may be found in the SQLDataExploration repository 
+--under CovidDeaths.xlsx and CovidVaccinations.xlsx
+
+
 SELECT * 
 FROM dbo.CovidDeaths
 order by 3,4
